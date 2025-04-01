@@ -1,0 +1,5 @@
+SCRATCH
+ ° INÍCIO:qaundo a bandeira for clicada.
+ ° DECISÃO: se..., senão...
+
+ ° Na programaçãonão não se usa virgula (,), se utiliza ponto (.) ex: 4.9.
